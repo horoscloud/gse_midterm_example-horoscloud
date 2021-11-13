@@ -1,3 +1,5 @@
+package at.campus02.wagenhofer;
+
 public class Person {
 
     private String vorname;
